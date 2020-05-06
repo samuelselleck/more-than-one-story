@@ -1,0 +1,27 @@
+{
+  "main": {
+    "play": "Play",
+    "how-to-play": "How To Play",
+    "about": "About"
+  },
+  "home": {
+    "title": "More Than One Story"
+  },
+  "play": {
+    "back": "Back",
+    "begin": "Press below to get a question",
+    "new-question": "New Question"
+  },
+  "about": {
+    "header":"",
+    "text-main": ""
+  },
+
+  "questions": {
+      "0": "This is the first question",
+      "1": "This is another question",
+      "3": "Something different",
+      "4": "And different again",
+      "5": "Untill no questions are left"
+  }
+}

@@ -1,18 +1,22 @@
 <template>
-  <div class="home">
-    <img alt="Vue logo" src="../assets/logo.png" />
-    <HelloWorld msg="Welcome to Your Vue.js App" />
-  </div>
+  <v-content>
+    <v-container class="home" full-height fluid>
+      <v-row align="center" justify="center" fill-height>
+        <h1
+          :class="[
+            $vuetify.breakpoint.smAndUp ? 'display-4' : 'display-2',
+            'font-weight-medium text-center ma-12'
+          ]"
+        >
+          {{ $t('home.title') }}
+        </h1>
+      </v-row>
+    </v-container>
+  </v-content>
 </template>
 
-<script>
-// @ is an alias to /src
-import HelloWorld from "@/components/HelloWorld.vue";
-
-export default {
-  name: "Home",
-  components: {
-    HelloWorld
-  }
-};
-</script>
+<style scoped>
+.home {
+  font-size: em;
+}
+</style>
