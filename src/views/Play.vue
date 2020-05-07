@@ -2,7 +2,7 @@
   <v-container class="play" fill-height fluid>
     <v-col align="center" justify="center">
         <transition name="fade" mode="out-in">
-            <h1 :key="question" class="display-2 ma-12">{{ question ? question : $t('play.begin')}}</h1>
+            <h1 :key="question" :class="[$vuetify.breakpoint.smAndUp ? 'display-2' : 'display-1', 'ma-12']">{{ question ? question : $t('play.begin')}}</h1>
         </transition>
       <v-btn @click.stop="question = getQuestion()" x-large>{{ $t('play.new-question') }}</v-btn>
     </v-col>
