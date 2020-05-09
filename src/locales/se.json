@@ -2,17 +2,23 @@
     "main": {
       "play" : "Spela",
       "how-to-play" : "Hur man spelar",
-      "about" : "Om"
+      "contact" : "Kontakta"
     },
     "home": {
-      "title" : "Mer än en berättelse"
+	  "title": "More Than One Story",
+	  "description": "More Than One Story är ett spel utvecklat för att bygga broar mellan människor i alla åldrar, från alla bakgrunder och kulturer. Individer, skolor, organisationer och sponsorer samarbetar för att producera och sprida More Than One Story till människor runt om i världen. Om du skulle vilja beställa More Than One Story kortspelet eller ingå i vårt nätverk får du gärna kontakta en av våra samarbetspartner eller Kultur- och fritidsförvaltningen i Simrishamn, Sverige. www.simrishamn.se/mtos"
     },
     "play": {
-  
-    },
-    "about": {
-  
-    },
+	  "back": "Tillbaka",
+	  "begin": "Vi är alla mer än en berättelse...",
+      "new-question": "Ny fråga"
+	},
+	"how-to-play": {
+	  "instructions": "Börja med en kort presentation av varje spelare. Den äldsta deltagaren drar ett kort och läser det högt. Med kortet i handen, börjar denna spelare berätta. De andra lyssnar aktivt och får uppmuntra berättaren genom att ställa frågor. När berättaren väljer att lägga ner kortet är det nästas tur. Spelet fortsätter medsols. Om alla vill så kan en tidsgräns för varje berättelse eller för hela spelet definieras. Spela så många rundor ni vill. Fritt samtal mellan olika berättelser är tillåtet! Alla vinner!"
+	},
+    "contact": {
+	  "text": "Det här är kontakt sidan"
+	},
 	
 	"questions": {
 	  "1": "Berätta en historia från en resa du har gjort",

@@ -2,6 +2,9 @@ import Vue from "vue";
 import VueRouter from "vue-router";
 import Main from "../views/Main.vue";
 import Home from "../views/Home.vue";
+import Contact from "../views/Contact.vue";
+import HowToPlay from "../views/HowToPlay.vue";
+import Play from "../views/Play.vue";
 
 Vue.use(VueRouter);
 
@@ -17,21 +20,21 @@ const routes = [
         component: Home
       },
       {
-        path: "/about",
-        name: "About",
-        component: () => import("../views/About.vue")
+        path: "/how-to-play",
+        name: "How To Play",
+        component: HowToPlay
       },
       {
         path: "/contact",
         name: "Contact",
-        component: () => import("../views/Contact.vue")
+        component: Contact
       }
     ]
   },
   {
     path: "/play",
     name: "Play",
-    component: () => import("../views/Play.vue")
+    component: Play
   }
 ];
 

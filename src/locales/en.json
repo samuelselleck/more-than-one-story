@@ -2,26 +2,22 @@
   "main": {
     "play": "Play",
     "how-to-play": "How To Play",
-    "about": "About"
+    "contact": "Contact"
   },
   "home": {
-    "title": "More Than One Story"
+	"title": "More Than One Story",
+	"description": "More than one story is a game made to build bridges between people of all backgrounds. Individuals, schools, organizations and sponsors are working together to produce and spread More Than One Story to people around the world. If you would like to order the More Than One Story card game or be part of our network, please contact one of our partners or the Department of Culture and Leisure of Simrishamn, Sweden.  www.simrishamn.se/mtos"
   },
   "play": {
     "back": "Back",
-    "begin": "Press below to get a question",
+    "begin": "We are all more than one story...",
     "new-question": "New Question"
   },
   "how-to-play": {
-	"how-to-play": "How to Play",
 	"instructions": "Begin with a short presentation of each player.  The oldest participant draws a card and reads it out loud. Holding the card, this player then tells a story.  The others listen actively and may encourage the story teller by asking questions. When the story teller decides to put the card down, then it is the next person’s turn and the game continues clockwise.  If the group wishes, then time limits may be set for each story or the game itself.  Play as many rounds as you like. Free conversation is allowed between stories! Everybody wins!"
   },
-  "about": {
-    "header":"The importance of more than one story",
-	"subheader-1": "The Project",
-    "text-1": "More Than One Story is a project run by the Department of Culture and Leisure of Simrishamn, Sweden, in cooperation with our partner organizations and sponsors. We are continuously developing the game and our network together with people of all ages. We welcome your ideas and suggestions!",
-	"subheader-2": "The Vision",
-	"text-2": "Individuals, schools, organizations and sponsors are working together to produce and spread More Than One Story to people around the world. The name of those who helped make this edition possible is printed on the package. If you would like to order More Than One Story or be part of our network, please contact one of our partners or the Department of Culture and Leisure of Simrishamn, Sweden.  www.simrishamn.se/mtos"
+  "contact": {
+	  "text": "This is the contact page"
   },
 
   "questions": {

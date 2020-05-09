@@ -1,22 +1,49 @@
 <template>
-  <v-content>
-    <v-container class="home" full-height fluid>
-      <v-row align="center" justify="center" fill-height>
-        <h1
-          :class="[
-            $vuetify.breakpoint.smAndUp ? 'display-4' : 'display-2',
-            'font-weight-medium text-center ma-12'
-          ]"
-        >
-          {{ $t('home.title') }}
-        </h1>
+  <v-row>
+    <v-col>
+      <v-row no-gutters justify="center" align="center">
+        <v-col class="mr-1" cols="auto">
+          <v-img
+            min-height="15em"
+            src="@/assets/more_than_one_story_notext.svg"
+            contain
+          ></v-img>
+        </v-col>
+
+        <v-col :cols="$vuetify.breakpoint.lgAndUp ? 4 : 6">
+          <h1
+            :class="[
+              $vuetify.breakpoint.smAndUp ? 'display-4' : 'display-1',
+              'font-weight-medium text-center'
+            ]"
+          >
+            {{ $t("home.title") }}
+          </h1>
+        </v-col>
       </v-row>
-    </v-container>
-  </v-content>
+      <v-row justify="center" no-gutters>
+        <v-col class="ma-8" lg="5">
+          <h1 class="body-1 font-weight-medium">
+            {{ $t("home.description") }}
+          </h1>
+        </v-col>
+      </v-row>
+      <v-row class="ma-3" align="center" justify="center" no-gutters>
+        <v-col class="partners">
+          <v-img src="@/assets/simrishamn.svg" contain></v-img>
+        </v-col>
+        <v-col class="partners">
+          <v-img src="@/assets/intercultural_inv_award.svg" contain></v-img>
+        </v-col>
+      </v-row>
+    </v-col>
+  </v-row>
 </template>
 
 <style scoped>
-.home {
-  font-size: em;
+.partners {
+  min-width: 0px;
+  max-width: 250px;
+  margin: 1em;
 }
 </style>

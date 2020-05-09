@@ -1,16 +1,38 @@
 <template>
-  <div class="locale-changer">
-    <select v-model="$i18n.locale">
-      <option v-for="(lang, i) in langs" :key="`Lang${i}`" :value="lang">{{ lang }}</option>
-    </select>
-  </div>
+  <v-select
+    class="locale-changer"
+    color="transparent"
+    :items="langs"
+    v-model="$i18n.locale"
+    hide-details
+    solo
+    flat
+    dense
+  >
+  </v-select>
 </template>
 
 <script>
 export default {
-  name: 'locale-changer',
-  data () {
-    return { langs: ['en', 'se'] }
-  }
-}
+  name: "locale-changer",
+  data: () => ({
+    langs: [
+      {
+        text: "English",
+        value: "en"
+      },
+      {
+        text: "Svenska",
+        value: "se"
+      }
+    ]
+  })
+};
 </script>
+
+<style scoped>
+.v-select {
+  min-width: 0px;
+  max-width: 150px;
+}
+</style>
