@@ -1,67 +1,119 @@
 <template>
   <v-app>
-    <v-app-bar class="transparent" app flat>
+    <v-app-bar class="transparent" app flat relative>
       <v-btn class="grey--text lighten-1" :ripple="false" text to="/">
         <v-icon dark left>mdi-arrow-left</v-icon>{{ $t("play.back") }}
       </v-btn>
       <v-spacer />
       <LocaleChanger />
     </v-app-bar>
-    <v-container class="play" fill-height fluid>
-      <v-col align="center" justify="center">
+    <v-container class="play" mt-12 fill-height fluid>
+      <div class="background">
+        <img class="backimg" src="@/assets/more_than_one_story_notext.svg" />
+      </div>
+
+      <v-col class="questionbox" align="center">
         <transition name="fade" mode="out-in">
           <h1
+            class="question"
             :key="index"
             :class="[
-              $vuetify.breakpoint.smAndUp ? 'display-2' : 'display-1',
-              'ma-12'
+              $vuetify.breakpoint.smAndUp ? 'display-2' : 'headline',
+              'font-weight-black'
             ]"
           >
             {{ question + "." }}
           </h1>
         </transition>
-        <v-btn @click.stop="randomizeIndex()" x-large>
+        <v-btn class="white" rounded @click.stop="nextIndex()" x-large>
           {{ $t("play.new-question") }}
         </v-btn>
       </v-col>
     </v-container>
-    <Footer />
   </v-app>
 </template>
 
 <script>
 import LocaleChanger from "@/components/LocaleChanger.vue";
-import Footer from "@/components/Footer.vue";
 
 export default {
   name: "Play",
   components: {
-    LocaleChanger,
-    Footer
+    LocaleChanger
   },
-  data: () => {
+  data: function() {
     return {
-      index: -1
+      index: 0,
+      shuffledQuestions: this.shuffled()
     };
   },
   computed: {
     question: function() {
-      let question =
-        this.index > 0
-          ? this.$t("questions." + this.index)
-          : this.$t("play.begin");
-      console.log(question);
+      let questionIndex = this.shuffledQuestions[this.index];
+      let question = this.$t("questions." + questionIndex);
       return question;
     }
   },
   methods: {
-    randomizeIndex: function() {
-      let numQuestions = Object.entries(this.$t("questions")).length;
-      let rand = Math.floor(Math.random() * numQuestions) + 1;
-      this.index = rand;
+    nextIndex: function() {
+      this.index++;
+      if (this.index >= this.shuffledQuestions.length) {
+        this.index = 0;
+      }
+    },
+    shuffle: function(array) {
+      for (var i = array.length - 1; i > 0; i--) {
+        var j = Math.floor(Math.random() * (i + 1));
+        var temp = array[i];
+        array[i] = array[j];
+        array[j] = temp;
+      }
+    },
+    shuffled: function() {
+      let questions = Object.entries(this.$t("questions")).map(o => o[0]);
+      this.shuffle(questions);
+      return questions;
     }
   }
 };
 </script>
 
-<style scoped></style>
+<style scoped>
+.questionbox {
+  z-index: 1;
+}
+.question {
+  background-image: linear-gradient(
+    rgba(255, 255, 255, 0) 0%,
+    rgba(255, 255, 255, 1) 25% 75%,
+    rgba(255, 255, 255, 0) 100%
+  );
+  padding-bottom: 0.7em;
+  padding-top: 0.7em;
+}
+.background {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 99%;
+  height: 99%;
+}
+.backimg {
+  position: relative;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  top: 15%;
+  height: 70%;
+}
+.fade-enter-active,
+.fade-leave-active {
+  transition-duration: 0.5s;
+  transition-property: opacity;
+  transition-timing-function: ease;
+}
+.fade-enter,
+.fade-leave-active {
+  opacity: 0;
+}
+</style>

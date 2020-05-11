@@ -28,11 +28,11 @@
           </h1>
         </v-col>
       </v-row>
-      <v-row class="ma-3" align="center" justify="center" no-gutters>
-        <v-col class="partners">
+      <v-row align="center" justify="center">
+        <v-col class="simris" cols="auto">
           <v-img src="@/assets/simrishamn.svg" contain></v-img>
         </v-col>
-        <v-col class="partners">
+        <v-col class="award" cols="auto">
           <v-img src="@/assets/intercultural_inv_award.svg" contain></v-img>
         </v-col>
       </v-row>
@@ -41,9 +41,12 @@
 </template>
 
 <style scoped>
-.partners {
-  min-width: 0px;
-  max-width: 250px;
-  margin: 1em;
+.simris {
+  width: 25%;
+  max-width: 15em;
+}
+.award {
+  width: 50%;
+  max-width: 30em;
 }
 </style>

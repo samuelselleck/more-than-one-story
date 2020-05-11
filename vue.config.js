@@ -1,5 +1,7 @@
+const BundleAnalyzerPlugin = require("webpack-bundle-analyzer")
+  .BundleAnalyzerPlugin;
+
 module.exports = {
-  lintOnSave: process.env.NODE_ENV !== "production",
   pluginOptions: {
     i18n: {
       locale: "en",
@@ -11,6 +13,7 @@ module.exports = {
   configureWebpack: {
     devServer: {
       host: "46.162.78.152"
-    }
+    },
+    plugins: [new BundleAnalyzerPlugin()]
   }
 };
