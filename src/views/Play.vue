@@ -1,8 +1,8 @@
 <template>
   <v-app>
     <v-app-bar class="transparent" app flat relative>
-      <v-btn class="grey--text lighten-1" :ripple="false" text to="/">
-        <v-icon dark left>mdi-arrow-left</v-icon>{{ $t("play.back") }}
+      <v-btn class="grey--text lighten-1 transparent" :ripple="false" text @click="$router.push({name: 'Home'})">
+        <v-icon left>mdi-arrow-left</v-icon>{{ $t("play.back") }}
       </v-btn>
       <v-spacer />
       <LocaleChanger />

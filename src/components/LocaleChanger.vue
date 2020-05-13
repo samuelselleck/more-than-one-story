@@ -3,7 +3,7 @@
     class="locale-changer"
     backgroundColor="transparent"
     :items="langs"
-    v-model="$i18n.locale"
+    v-model="language"
     hide-details
     solo
     flat
@@ -15,18 +15,30 @@
 <script>
 export default {
   name: "locale-changer",
-  data: () => ({
-    langs: [
-      {
-        text: "English",
-        value: "en"
+  data: function() {
+    return {
+      langs: [
+        {
+          text: "English",
+          value: "en"
+        },
+        {
+          text: "Svenska",
+          value: "se"
+        }
+      ]
+    }
+  },
+  computed: {
+    language: {
+      get: function() {
+          return this.$route.params.lang;
       },
-      {
-        text: "Svenska",
-        value: "se"
+      set: function(lang) {
+          this.$router.push({name: this.$route.name, params: { lang: lang}})
       }
-    ]
-  })
+    }
+  }
 };
 </script>
 
