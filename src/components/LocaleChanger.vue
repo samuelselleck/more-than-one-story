@@ -1,7 +1,7 @@
 <template>
   <v-select
     class="locale-changer"
-    color="transparent"
+    backgroundColor="transparent"
     :items="langs"
     v-model="$i18n.locale"
     hide-details

@@ -6,7 +6,7 @@
         @click.stop="drawer = !drawer"
       />
 
-      <v-btn class="hidden-sm-and-down mr-4" large rounded light to="/play"
+      <v-btn class="white hidden-sm-and-down mr-4" large rounded to="/play"
         >{{ $t("main.play") }}
       </v-btn>
       <v-btn class="hidden-sm-and-down ma-2" outlined to="/how-to-play"
