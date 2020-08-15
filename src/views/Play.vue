@@ -1,7 +1,12 @@
 <template>
   <v-app>
     <v-app-bar class="transparent" app flat relative>
-      <v-btn class="grey--text lighten-1 transparent" :ripple="false" text @click="$router.push({name: 'Home'})">
+      <v-btn
+        class="grey--text lighten-1 transparent"
+        :ripple="false"
+        text
+        @click="$router.push({ name: 'Home' })"
+      >
         <v-icon left>mdi-arrow-left</v-icon>{{ $t("play.back") }}
       </v-btn>
       <v-spacer />
@@ -14,7 +19,7 @@
 
       <v-col class="questionbox" align="center">
         <transition name="fade" mode="out-in">
-          <h1
+          <p
             class="question"
             :key="index"
             :class="[
@@ -23,7 +28,7 @@
             ]"
           >
             {{ question + "." }}
-          </h1>
+          </p>
         </transition>
         <v-btn class="white" rounded @click.stop="nextIndex()" x-large>
           {{ $t("play.new-question") }}
@@ -62,15 +67,14 @@ export default {
       }
     },
     shuffle: function(array) {
-      for (var i = array.length - 1; i > 0; i--) {
-        var j = Math.floor(Math.random() * (i + 1));
-        var temp = array[i];
-        array[i] = array[j];
-        array[j] = temp;
+      for (let i = array.length - 1; i > 0; i--) {
+        let j = Math.floor(Math.random() * (i + 1));
+        [array[i], array[j]] = [array[j], array[i]];
       }
     },
     shuffled: function() {
-      let questions = Object.entries(this.$t("questions")).map(o => o[0]);
+      let questions = Object.keys(this.$t("questions"));
+      console.log(questions);
       this.shuffle(questions);
       return questions;
     }
@@ -83,11 +87,29 @@ export default {
   z-index: 1;
 }
 .question {
-  background-image: linear-gradient(
+  background: rgb(255, 255, 255);
+  background: -moz-linear-gradient(
+    0deg,
     rgba(255, 255, 255, 0) 0%,
-    rgba(255, 255, 255, 1) 25% 75%,
+    rgba(255, 255, 255, 1) 25%,
+    rgba(255, 255, 255, 1) 75%,
     rgba(255, 255, 255, 0) 100%
   );
+  background: -webkit-linear-gradient(
+    0deg,
+    rgba(255, 255, 255, 0) 0%,
+    rgba(255, 255, 255, 1) 25%,
+    rgba(255, 255, 255, 1) 75%,
+    rgba(255, 255, 255, 0) 100%
+  );
+  background: linear-gradient(
+    0deg,
+    rgba(255, 255, 255, 0) 0%,
+    rgba(255, 255, 255, 1) 25%,
+    rgba(255, 255, 255, 1) 75%,
+    rgba(255, 255, 255, 0) 100%
+  );
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#ffffff",endColorstr="#ffffff",GradientType=1);
   padding-bottom: 0.7em;
   padding-top: 0.7em;
 }

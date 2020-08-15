@@ -12,39 +12,41 @@ Vue.use(VueRouter);
 
 const routes = [
   {
-    path:"",
-    redirect: "/" + process.env.VUE_APP_I18N_LOCALE,
+    path: "",
+    redirect: "/" + process.env.VUE_APP_I18N_LOCALE
   },
   {
-    path:"/:lang",
+    path: "/:lang",
     component: Site,
-    children: [{
-      path: "",
-      component: Main,
-      children: [
-        {
-          path: "",
-          name: "Home",
-          component: Home
-        },
-        {
-          path: "how-to-play",
-          name: "How To Play",
-          component: HowToPlay
-        },
-        {
-          path: "contact",
-          name: "Contact",
-          component: Contact
-        }
-      ]
-    },
-    {
-      path: "play",
-      name: "Play",
-      component: Play
-    }
-  ]},
+    children: [
+      {
+        path: "",
+        component: Main,
+        children: [
+          {
+            path: "",
+            name: "Home",
+            component: Home
+          },
+          {
+            path: "how-to-play",
+            name: "How To Play",
+            component: HowToPlay
+          },
+          {
+            path: "contact",
+            name: "Contact",
+            component: Contact
+          }
+        ]
+      },
+      {
+        path: "play",
+        name: "Play",
+        component: Play
+      }
+    ]
+  }
 ];
 
 const router = new VueRouter({
@@ -54,15 +56,14 @@ const router = new VueRouter({
 });
 
 router.beforeEach((to, from, next) => {
+  let lastLang = from.params.lang;
+  let newLang = to.params.lang;
 
-    let lastLang = from.params.lang;
-    let newLang = to.params.lang;
+  if (lastLang != newLang) {
+    i18n.locale = newLang;
+  }
 
-    if(lastLang != newLang) {
-        i18n.locale = newLang;
-    }
-
-    next();
+  next();
 });
 
 export default router;

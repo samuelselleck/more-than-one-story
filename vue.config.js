@@ -1,5 +1,4 @@
-const BundleAnalyzerPlugin = require("webpack-bundle-analyzer")
-  .BundleAnalyzerPlugin;
+//const BundleAnalyzerPlugin = require("webpack-bundle-analyzer").BundleAnalyzerPlugin;
 
 module.exports = {
   pluginOptions: {
@@ -12,8 +11,8 @@ module.exports = {
   },
   configureWebpack: {
     devServer: {
-      host: "46.162.78.152"
-    },
-    plugins: [new BundleAnalyzerPlugin()]
+      host: "localhost"
+    }
+    //plugins: [new BundleAnalyzerPlugin()]
   }
 };

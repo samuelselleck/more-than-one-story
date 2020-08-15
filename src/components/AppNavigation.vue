@@ -6,13 +6,20 @@
         @click.stop="drawer = !drawer"
       />
 
-      <v-btn class="white hidden-sm-and-down mr-4" large rounded :to="{ name: 'Play'}"
+      <v-btn
+        class="white hidden-sm-and-down mr-4"
+        large
+        rounded
+        :to="{ name: 'Play' }"
         >{{ $t("main.play") }}
       </v-btn>
-      <v-btn class="hidden-sm-and-down ma-2" outlined :to="{ name: 'How To Play'}"
+      <v-btn
+        class="hidden-sm-and-down ma-2"
+        outlined
+        :to="{ name: 'How To Play' }"
         >{{ $t("main.how-to-play") }}
       </v-btn>
-      <v-btn class="hidden-sm-and-down ma-2" outlined :to="{ name: 'Contact'}"
+      <v-btn class="hidden-sm-and-down ma-2" outlined :to="{ name: 'Contact' }"
         >{{ $t("main.contact") }}
       </v-btn>
       <v-spacer></v-spacer>
@@ -27,17 +34,17 @@
           </v-list-item-content>
         </v-list-item>
         <v-divider />
-        <v-list-item :to="{ name: 'Play'}">
+        <v-list-item :to="{ name: 'Play' }">
           <v-list-item-content>
             <v-list-item-title>{{ $t("main.play") }}</v-list-item-title>
           </v-list-item-content>
         </v-list-item>
-        <v-list-item :to="{ name: 'How To Play'}">
+        <v-list-item :to="{ name: 'How To Play' }">
           <v-list-item-content>
             <v-list-item-title>{{ $t("main.how-to-play") }}</v-list-item-title>
           </v-list-item-content>
         </v-list-item>
-        <v-list-item :to="{ name: 'Contact'}">
+        <v-list-item :to="{ name: 'Contact' }">
           <v-list-item-content>
             <v-list-item-title>{{ $t("main.contact") }}</v-list-item-title>
           </v-list-item-content>

@@ -27,15 +27,17 @@ export default {
           value: "se"
         }
       ]
-    }
+    };
   },
   computed: {
     language: {
       get: function() {
-          return this.$route.params.lang;
+        return this.$route.params.lang;
       },
       set: function(lang) {
-          this.$router.push({name: this.$route.name, params: { lang: lang}})
+        if(this.$route.params.lang != lang) {
+          this.$router.push({ name: this.$route.name, params: { lang: lang } });
+        }
       }
     }
   }

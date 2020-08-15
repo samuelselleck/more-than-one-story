@@ -6,7 +6,7 @@
     },
     "home": {
 	  "title": "More Than One Story",
-	  "description": "More Than One Story är ett spel utvecklat för att bygga broar mellan människor i alla åldrar, från alla bakgrunder och kulturer. Individer, skolor, organisationer och sponsorer samarbetar för att producera och sprida More Than One Story till människor runt om i världen. Om du skulle vilja beställa More Than One Story kortspelet eller ingå i vårt nätverk får du gärna kontakta en av våra samarbetspartner eller Kultur- och fritidsförvaltningen i Simrishamn, Sverige. www.simrishamn.se/mtos"
+	  "description": "More Than One Story är ett kortspel utvecklat för att bygga broar mellan människor i alla åldrar, från alla bakgrunder och kulturer. Individer och organisationer samarbetar för att producera och sprida More Than One Story till människor runt om i världen. Om du skulle vilja beställa More Than One Story kortspelet eller ingå i vårt nätverk får du gärna kontakta en av våra samarbetspartner eller Kultur- och fritidsförvaltningen i Simrishamn, Sverige. www.simrishamn.se/mtos"
     },
     "play": {
 	  "back": "Tillbaka",
@@ -14,10 +14,20 @@
       "new-question": "Ny fråga"
 	},
 	"how-to-play": {
-	  "instructions": "Börja med en kort presentation av varje spelare. Den äldsta deltagaren drar ett kort och läser det högt. Med kortet i handen, börjar denna spelare berätta. De andra lyssnar aktivt och får uppmuntra berättaren genom att ställa frågor. När berättaren väljer att lägga ner kortet är det nästas tur. Spelet fortsätter medsols. Om alla vill så kan en tidsgräns för varje berättelse eller för hela spelet definieras. Spela så många rundor ni vill. Fritt samtal mellan olika berättelser är tillåtet! Alla vinner!"
+	   "paragraphs": {
+		   "paragraph-1": "Vår erfarenhet är att fyra till sex personer är ett lagom antal spelare. Gruppen bör ha minst en timme på sig att spela. Fungerande internetuppkoppling och videokamera krävs. Alla deltagare bör uppmuntras att testa funktionerna i förväg.",
+		   "paragraph-2": "Gruppledaren börjar med en genomgång av hur spelet fungerar online. Gruppledaren skriver sedan upp alla deltagare i en cirkel på papper eller på skärmen och visar dem så att de i sin tur kan skriva upp cirkeln och ha koll på spelordningen.",
+		   "paragraph-3": "Gå laget runt i cirkeln för en kort presentation av varje spelare. Gruppledaren öppnar sedan PLAY avdelningen på denna hemsida och delar sin skärm med alla. Gruppledaren trycker på NYTT KORT och ber deltagaren att läsa kortet högt, reflektera, och sedan berätta för gruppen när personen är redo. Då tar gruppledaren bort den delade skärmen så att alla kan se varandra och deltagaren börjar berätta.",
+		   "paragraph-4": "De andra lyssnar aktivt. Vi rekommenderar att alla har sina mikrofoner på så de kan uppmuntra berättaren och även ställa frågor. När berättaren är färdig är det nästas tur. Spelet fortsätter medsols i cirkeln. Gruppledaren bör se till att alla får ungefär lika mycket tid för att berätta. ",
+		   "paragraph-5": "Spela så många rundor ni vill. Fritt samtal mellan olika berättelser är tillåtet."
+	   },
+	  "instructions": "Spelet börjar med en kort presentation av varje spelare och en genomgång av hur man spelar. Gruppledaren skriver upp alla deltagare i en cirkel på papper och visar deltagare som i sin tur kan skriva upp cirkeln så alla har koll på spelordningen. Den äldsta deltagaren börjar. Gruppledaren öppnar PLAY avdelningen på www.morethanonestory.org. Gruppledaren delar sin skärm med alla och trycker på NYTT KORT. Deltagaren läser kortet högt och berättar för gruppen när den är redo. Då tar gruppledaren bort den delade skärmen och deltagaren börjar berätta. De andra lyssnar aktivt. De kan ha sina mikrofoner på så de kan uppmuntra berättaren och även ställa frågor. När berättaren är färdig är det nästas tur. Spelet fortsätter medsols i cirkeln. Om alla vill så kan en tidsgräns för varje berättelse eller för hela spelet definieras. Spela så många rundor ni vill. Fritt samtal mellan olika berättelser är tillåtet!"
 	},
     "contact": {
-	  "text": "Det här är kontakt sidan"
+		"paragraphs": {
+			  "text": "Du kan hitta mer information om vårt projekt på hemsidan: www.simrishamn.se/mtos.",
+			  "text-2": "Mejla gärna oss om du har frågor kring projektet eller kortspelet More Than One Story: morethanonestory@simrishamn.se"
+		}
 	},
 	
 	"questions": {
