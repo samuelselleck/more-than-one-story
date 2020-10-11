@@ -10,23 +10,19 @@
     },
     "play": {
 	  "back": "Tillbaka",
-	  "begin": "Vi är alla mer än en berättelse...",
       "new-question": "Ny fråga"
 	},
 	"how-to-play": {
-	   "paragraphs": {
-		   "paragraph-1": "Vår erfarenhet är att fyra till sex personer är ett lagom antal spelare. Gruppen bör ha minst en timme på sig att spela. Fungerande internetuppkoppling och videokamera krävs. Alla deltagare bör uppmuntras att testa funktionerna i förväg.",
-		   "paragraph-2": "Gruppledaren börjar med en genomgång av hur spelet fungerar online. Gruppledaren skriver sedan upp alla deltagare i en cirkel på papper eller på skärmen och visar dem så att de i sin tur kan skriva upp cirkeln och ha koll på spelordningen.",
-		   "paragraph-3": "Gå laget runt i cirkeln för en kort presentation av varje spelare. Gruppledaren öppnar sedan PLAY avdelningen på denna hemsida och delar sin skärm med alla. Gruppledaren trycker på NYTT KORT och ber deltagaren att läsa kortet högt, reflektera, och sedan berätta för gruppen när personen är redo. Då tar gruppledaren bort den delade skärmen så att alla kan se varandra och deltagaren börjar berätta.",
-		   "paragraph-4": "De andra lyssnar aktivt. Vi rekommenderar att alla har sina mikrofoner på så de kan uppmuntra berättaren och även ställa frågor. När berättaren är färdig är det nästas tur. Spelet fortsätter medsols i cirkeln. Gruppledaren bör se till att alla får ungefär lika mycket tid för att berätta. ",
-		   "paragraph-5": "Spela så många rundor ni vill. Fritt samtal mellan olika berättelser är tillåtet."
-	   },
-	  "instructions": "Spelet börjar med en kort presentation av varje spelare och en genomgång av hur man spelar. Gruppledaren skriver upp alla deltagare i en cirkel på papper och visar deltagare som i sin tur kan skriva upp cirkeln så alla har koll på spelordningen. Den äldsta deltagaren börjar. Gruppledaren öppnar PLAY avdelningen på www.morethanonestory.org. Gruppledaren delar sin skärm med alla och trycker på NYTT KORT. Deltagaren läser kortet högt och berättar för gruppen när den är redo. Då tar gruppledaren bort den delade skärmen och deltagaren börjar berätta. De andra lyssnar aktivt. De kan ha sina mikrofoner på så de kan uppmuntra berättaren och även ställa frågor. När berättaren är färdig är det nästas tur. Spelet fortsätter medsols i cirkeln. Om alla vill så kan en tidsgräns för varje berättelse eller för hela spelet definieras. Spela så många rundor ni vill. Fritt samtal mellan olika berättelser är tillåtet!"
+		"in-person-header": "I samma rum",
+		"in-person": "Börja med en kort presentation av varje spelare. Den äldsta deltagaren trycker på \"ny fråga\" och läser frågan högt. Spelaren berättar en historia. De andra lyssnar aktivt och får uppmuntra berättaren genom att ställa frågor. När berättelsen är färdig, fortsätter spelet medsols.",
+		"online-header": "Online",
+		"online": "Du kan spela online på precis samma sätt med hjälp av någon platform för videokommunikation. Låt någon i gruppen vara ansvarig för att hålla koll på vems tur det är och som delar sin skärm för att visa frågorna.",
+		"tips-header": "Tips till arrangörer",
+		"tip1": "Vår erfarenhet är att grupper av fyra till åtta deltagare fungerar bäst i samma rum, medans fyra till sex fungerar bäst online.",
+		"tip2": "Ungefär 40 minuter till en timme är lagom tid att spela."
 	},
     "contact": {
-		"paragraphs": {
-			  "text": "Nedan kan du hitta mer information om vårt projekt. Mejla gärna oss om du har frågor kring projektet eller kortspelet More Than One Story."
-		}
+		"info": "Nedan kan du hitta mer information om vårt projekt, och mer utförliga instruktioner i hur spelet kan gå till. Mejla gärna oss om du har frågor kring projektet eller kortspelet More Than One Story."
 	},
 	
 	"questions": {

@@ -13,18 +13,16 @@
 	  "new-question": "New Question"
 	},
 	"how-to-play": {
-		"paragraphs": {
-		   "paragraph-1": "Our experience is that groups of four to six people are best, and that the group should have at least an hour to play. It is very important that everyone has a functioning video camera and a good internet connection. Participants should be encouraged to test these before the actual event.",
-		   "paragraph-2": "The group leader begins by explaining how the game is played online, and then draws the names of the participants in a circle, on paper or on the screen, and shows the partipants so they can copy this circle to know whose turn it is.",
-		   "paragraph-3": "Take turns in the circle for a short presentation of each player. The group leader then opens the PLAY section of this website, shares the screen with everyone then presses NEW CARD. The one who will tell the story reads the card out loud, takes time to reflect, and then says when an idea for a story is ready. The group leader then takes away the shared screen so everyone can see each other while the participant tells the story.",
-		   "paragraph-4": "The others listen actively. We recommend that all players have their microphones on so they are able to encourage the story teller and even ask questions. When the story teller is finished the game continues clockwise in the circle. The group leader should make sure each player receives about the same amount of time to tell stories.",
-		   "paragraph-5": "Play as many rounds as you like. Free conversation is allowed between stories."
-		}
+		"in-person-header": "In Person",
+		"in-person": "Begin with a short presentation of each player. The oldest participant starts by pressing \"new question\" and reads the question out loud. The player then tells a story. The others listen actively and may encourage the story teller by asking questions. When the storyteller is done, the game continues clockwise.",
+		"online-header": "Online",
+		"online": "You can play online just like you would in person, using any video communication platform. Assign someone who keeps track of whose turn it is and who shares their screen to show the questions.",
+		"tips-header": "Tips for Organizers",
+		"tip1": "Our experience is that groups of four to eight people works best in person, whereas four to six people works best online.",
+		"tip2": "About 40 minutes to an hour is a good amount of time to play"
 	},
 	"contact": {
-		"paragraphs": {
-			"text": "Below you can find more information about More Than One Story. Please contact us if you have any questions about the More Than One Story card game or project."
-		}
+		"info": "Below you can find more information about More Than One Story, and a more in depth description about how to play. Please contact us if you have any questions about the More Than One Story card game or project."
 	},
   
 	"questions": {

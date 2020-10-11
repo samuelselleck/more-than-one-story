@@ -35,7 +35,7 @@ export default {
         return this.$route.params.lang;
       },
       set: function(lang) {
-        if(this.$route.params.lang != lang) {
+        if (this.$route.params.lang != lang) {
           this.$router.push({ name: this.$route.name, params: { lang: lang } });
         }
       }
