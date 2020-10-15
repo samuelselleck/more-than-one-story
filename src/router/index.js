@@ -60,9 +60,10 @@ router.beforeEach((to, from, next) => {
   let newLang = to.params.lang;
 
   if (lastLang != newLang) {
+    let langMetadata = i18n.messages[newLang].metadata;
+    router.app.$vuetify.rtl = langMetadata.rtl;
     i18n.locale = newLang;
   }
-
   next();
 });
 

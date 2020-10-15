@@ -17,16 +17,9 @@ export default {
   name: "locale-changer",
   data: function() {
     return {
-      langs: [
-        {
-          text: "English",
-          value: "en"
-        },
-        {
-          text: "Svenska",
-          value: "se"
-        }
-      ]
+      langs: Object.entries(this.$i18n.messages).map(l => {
+        return { text: l[1].metadata.language, value: l[0] };
+      })
     };
   },
   computed: {

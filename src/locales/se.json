@@ -1,5 +1,9 @@
 {
-    "main": {
+	"metadata": {
+	  "language": "Svenska",
+	  "rtl": false
+	},
+	"main": {
       "play" : "Spela",
       "how-to-play" : "Hur man spelar",
       "contact" : "Kontakta"
@@ -16,7 +20,7 @@
 		"in-person-header": "I samma rum",
 		"in-person": "Börja med en kort presentation av varje spelare. Den äldsta deltagaren trycker på \"ny fråga\" och läser frågan högt. Spelaren berättar en historia. De andra lyssnar aktivt och får uppmuntra berättaren genom att ställa frågor. När berättelsen är färdig, fortsätter spelet medsols.",
 		"online-header": "Online",
-		"online": "Du kan spela online på precis samma sätt med hjälp av någon platform för videokommunikation. Låt någon i gruppen vara ansvarig för att hålla koll på vems tur det är och som delar sin skärm för att visa frågorna.",
+		"online": "Du kan spela online på precis samma sätt med hjälp av någon platform för videokommunikation. Låt någon i gruppen vara ansvarig för att hålla koll på vems tur det är. Samma person kan också dela sin skärm för att visa frågorna.",
 		"tips-header": "Tips till arrangörer",
 		"tip1": "Vår erfarenhet är att grupper av fyra till åtta deltagare fungerar bäst i samma rum, medans fyra till sex fungerar bäst online.",
 		"tip2": "Ungefär 40 minuter till en timme är lagom tid att spela."
