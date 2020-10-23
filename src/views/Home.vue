@@ -36,6 +36,14 @@
           <v-img src="@/assets/intercultural_inv_award.svg" contain></v-img>
         </v-col>
       </v-row>
+      <v-row class="ma-8" align="center" justify="center">
+        <v-col cols="auto">
+          <p class="body-1">partner</p>
+        </v-col>
+        <v-col class="partner" cols="auto">
+          <v-img src="@/assets/alf_sweden.png" contain></v-img>
+        </v-col>
+      </v-row>
     </v-col>
   </v-row>
 </template>
@@ -44,9 +52,16 @@
 .simris {
   width: 25%;
   max-width: 15em;
+  min-width: 10em;
 }
 .award {
   width: 50%;
   max-width: 30em;
+  min-width: 15em;
+}
+
+.partner {
+  min-width: 11em;
+  width: 12%;
 }
 </style>
