@@ -38,7 +38,9 @@
       </v-row>
       <v-row class="ma-8" align="center" justify="center">
         <v-col cols="auto">
-          <p class="body-1">partner</p>
+          <v-layout row wrap align-center>
+            <v-flex>partner</v-flex>
+          </v-layout>
         </v-col>
         <v-col class="partner" cols="auto">
           <v-img src="@/assets/alf_sweden.png" contain></v-img>
@@ -62,6 +64,6 @@
 
 .partner {
   min-width: 11em;
-  width: 12%;
+  width: 11%;
 }
 </style>

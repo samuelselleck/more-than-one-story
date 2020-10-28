@@ -1,0 +1,85 @@
+{
+	"metadata": {
+		"language": "Français",
+		"rtl": false
+	},
+
+	"main": {
+	  "play": "Jouer",
+	  "how-to-play": "Comment jouer/Règles du jeu",
+	  "contact": "Contact"
+	},
+	"home": {
+	  "title": "Plus d'une Histoire",
+	  "description": "Plus d'une Histoire est un jeu de cartes conçu pour créer des liens entre des personnes d'âges, origines et cultures différentes. Il est le fruit de la collaboration de personnes et d'organisations qui ensemble diffusent le jeu dans le monde entier. Si vous souhaitez commander un set de jeu de cartes Plus d'une Histoire ou faire partie de notre réseau, veuillez contacter l'un de nos partenaires ou le Département de la culture et des loisirs de Simrishamn, Suède."
+	},
+	"play": {
+	  "back": "Retour",
+	  "new-question": "Nouvelle question"
+	},
+	"how-to-play": {
+		"in-person-header": "En personne",
+		"in-person": "Commence par une brève présentation de chaque joueur. Le joueur le plus âgé commence par appuyer sur \"nouvelle question\" et lit la question à haute voix et répond en racontant une histoire. Les autres écoutent activement et peuvent encourager le narrateur en lui posant des questions. Lorsque le narrateur a terminé, le jeu se poursuit dans le sens des aiguilles d'une montre.",
+		"online-header": "En ligne",
+		"online": "Tu peux jouer en ligne comme tu le ferais en personne, en utilisant la plateforme de communication vidéo de ton choix. Désigne une personne comme modérateur qui indique qui est-ce le tour et qui partage son écran pour montrer les questions.",
+		"tips-header": "Conseils aux organisateurs",
+		"tip1": "Le meilleur nombre de participants, selon notre expérience, est un groupe de 4 à 8 personnes lorsqu'on se rencontre en personne, et un groupe de 4 à 6 personnes lorsqu'on se rencontre en ligne.",
+		"tip2": "Environ 40 minutes à une heure est une bonne durée de jeu"
+	},
+	"contact": {
+		"info": "Tu trouveras ci-dessous plus d'informations sur Plus d'une Histoire, ainsi qu'une description plus détaillée de la façon de jouer. N'hésite pas à nous contacter si tu as des questions sur le jeu de cartes ou le projet Plus d'une Histoire."
+	},
+  
+	"questions": {
+	  "1": "Raconte une histoire d'un voyage que tu as fait",
+	  "2": "Parle de quelque chose de nouveau que tu aimerais faire",
+	  "3": "Parle d'une personne qui te fait te sentir bien",
+	  "4": "Raconte une histoire sur un moment embarrassant",
+	  "5": "Décris la vie de tes rêves",
+	  "6": "Parle d'une personne que tu admires et pourquoi",
+	  "7": "Décris un endroit où tu as vécu quand tu étais enfant",
+	  "8": "Raconte comment un film ou un livre t'a influencé·e",
+	  "9": "Parle de quelque chose que tu as créé ou que tu veux créer",
+	  "10": "Raconte l'histoire d'une expérience que tu as faite dans ta vie",
+	  "11": "Raconte l'histoire de quelque chose de passionnant que tu as vécu",
+	  "12": "Raconte l'histoire d'un souvenir d'école",
+	  "13": "Raconte l'histoire d'un moment où tu as eu de la chance",
+	  "14": "Parle de quelque chose que tu attends avec impatience",
+	  "15": "Raconte l'histoire d'un moment dont tu te souviendras toujours",
+	  "16": "Raconte quelque chose sur la façon dont tu jouais quand tu étais enfant",
+	  "17": "Pose la question de ton choix à un·e autre joueur·se",
+	  "18": "Parle d'une personne qui a eu un impact dans ta vie",
+	  "19": "Raconte l'histoire d'un moment où tu t'es mis·e en colère",
+	  "20": "Parle d'un travail que tu as eu ou que tu aimerais avoir",
+	  "21": "Raconte l'histoire d'un moment où tu étais en danger",
+	  "22": "Parle d'un endroit qui te fait du bien",
+	  "23": "Raconte l'histoire d'une expérience que tu as faite dans ta vie",
+	  "24": "Raconte l'histoire de quelque chose que tu as perdu ou trouvé",
+	  "25": "Raconte l'histoire d'un moment où tu étais fier·e",
+	  "26": "Raconte quelque chose sur ta famille",
+	  "27": "Décris un grand événement dans ta vie",
+	  "28": "Raconte l'histoire de quelque chose qui t'a rendu·e heureux·se",
+	  "29": "Parle d'un compliment que tu as reçu",
+	  "30": "Raconte l'histoire de quelque chose qui t'appartient et qui est spécial pour toi",
+	  "31": "Raconte un moment que tu aimerais revivre",
+	  "32": "Raconte l'histoire d'une erreur que tu as commise",
+	  "33": "Parle de quelque chose dont tu es reconnaissant·e",
+	  "34": "Parle d'un talent que tu as et de comment tu l'utilises",
+	  "35": "Pose la question de ton choix à un·e autre joueur·se",
+	  "36": "Parle d'un trait de personnalité dont tu as hérité",
+	  "37": "Parle d'une personne qui te manque",
+	  "38": "Raconte l'histoire d'une expérience que tu as faite dans ta vie",
+	  "39": "Raconte l'histoire d'un moment de ta vie où tu as enfreint une règle",
+	  "40": "Raconte l'histoire d'un moment de ta vie où tu as été généreux·se",
+	  "41": "Raconte l'histoire d'un moment de ta vie dont tu te souviendras toujours",
+	  "42": "Raconte l'histoire d'un cadeau que tu as donné ou reçu",
+	  "43": "Pose la question de ton choix à un·e autre joueur·se",
+	  "44": "Raconte une histoire à propos d'une surprise",
+	  "45": "Parle d'une de tes passions",
+	  "46": "Raconte l'histoire d'un moment de ta vie où quelque chose t'a fait mal",
+	  "47": "Raconte l'histoire d'un moment de ta vie où tu étais nerveux·se",
+	  "48": "Raconte l'histoire d'un moment de ta vie où tu as réussi",
+	  "49": "Raconte l'histoire d'un moment de ta vie où tu as eu peur",
+	  "50": "Parle de quelque chose que tu apprécies chez toi"
+	}
+  }
