@@ -1,0 +1,27 @@
+{
+    "name": "More Than One Story",
+    "short_name": "MTOS",
+    "lang": "en",
+    "description": "The More Than One Story game.",
+    "icons": [
+      {
+        "src": "mtos512x512.png",
+        "type": "image/png",
+        "sizes": "512x512"
+      },
+      {
+        "src": "mtos192x192.png",
+        "type": "image/png",
+        "sizes": "192x192"
+      },
+      {
+        "src": "mtos144x144.png",
+        "type": "image/png",
+        "sizes": "144x144"
+      }
+    ],
+    "start_url": "/en/play",
+    "display": "standalone",
+    "theme_color": "#DEDEDE",
+    "background_color": "#DEDEDE"
+  }

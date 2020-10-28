@@ -74,7 +74,6 @@ export default {
     },
     shuffled: function() {
       let questions = Object.keys(this.$t("questions"));
-      console.log(questions);
       this.shuffle(questions);
       return questions;
     }

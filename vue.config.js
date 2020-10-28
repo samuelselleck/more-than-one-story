@@ -1,4 +1,4 @@
-//const BundleAnalyzerPlugin = require("webpack-bundle-analyzer").BundleAnalyzerPlugin;
+const WorkboxPlugin = require('workbox-webpack-plugin');
 
 module.exports = {
   pluginOptions: {
@@ -12,7 +12,10 @@ module.exports = {
   configureWebpack: {
     devServer: {
       host: "localhost"
-    }
-    //plugins: [new BundleAnalyzerPlugin()]
+    },
+    plugins: [new WorkboxPlugin.GenerateSW({
+     clientsClaim: true,
+     skipWaiting: true,
+   })]
   }
 };
