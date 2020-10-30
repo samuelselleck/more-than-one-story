@@ -23,5 +23,6 @@
     "start_url": "/en/play",
     "display": "standalone",
     "theme_color": "#DEDEDE",
-    "background_color": "#DEDEDE"
+    "background_color": "#DEDEDE",
+    "scope": "/"
   }
