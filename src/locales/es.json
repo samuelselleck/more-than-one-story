@@ -1,0 +1,84 @@
+﻿{
+	"metadata": {
+		"language": "Español",
+		"rtl": false
+	},
+	"main": {
+	  "play": "Jugar",
+	  "how-to-play": "Cómo jugar",
+	  "contact": "Contacto"
+	},
+	"home": {
+	  "title": "Más que una Historia",
+	  "description": "Más que una Historia es un juego de cartas diseñado para tender puentes entre personas de todas las edades, orígenes y culturas. Individuos y entidades están colaborando para producir y difundir Más que una Historia entre personas de todo el planeta. Si quieres encargar el juego de cartas Más que una Historia o unirte a nuestra red, ponte en contacto con uno de nuestros socios o con el Departamento de Cultura y Ocio del municipio de Simrishamn (Suecia)."
+	},
+	"play": {
+	  "back": "Atrás",
+	  "new-question": "Nueva pregunta"
+	},
+	"how-to-play": {
+		"in-person-header": "En persona",
+		"in-person": "Comienza con una breve presentación de cada jugador. El participante de más edad empieza presionando \"nueva pregunta\" y lee la pregunta en voz alta. A continuación, el jugador en cuestión cuenta una historia. Los demás escuchan de manera activa y pueden animar al narrador planteándole preguntas. Una vez que ha terminado el narrador, el juego continúa en el sentido de las agujas del reloj.",
+		"online-header": "En línea",
+		"online": "Puedes jugar en línea igual que harías en persona con cualquier plataforma de comunicación por vídeo. Encarga a alguien para que determine a quién le toca y que comparta su pantalla para mostrar las preguntas.",
+		"tips-header": "Consejos para los organizadores",
+		"tip1": "De acuerdo con nuestra experiencia, los grupos de cuatro a ocho personas funcionan mejor en persona, mientras que cuatro a seis personas interactúan mejor en línea.",
+		"tip2": "Una duración del juego adecuada es de entre 40 minutos y una hora"
+	},
+	"contact": {
+		"info": "Más abajo encontrarás información adicional en relación con Más que una Historia y una descripción más detallada sobre cómo jugar. Te invitamos a comunicarte con nosotros para cualquier duda sobre el proyecto o el juego de cartas Más que una Historia."
+	},
+  
+	"questions": {
+	  "1": "Cuenta una historia sobre un viaje que hayas hecho",
+	  "2": "Cuenta algo nuevo que te gustaría hacer",
+	  "3": "Habla sobre una persona que te haga sentir bien",
+	  "4": "Cuenta una historia acerca de un momento embarazoso",
+	  "5": "Describe la vida de tus sueños",
+	  "6": "Habla de alguien a quien admires y por qué",
+	  "7": "Describe un lugar donde hayas vivido de niño",
+	  "8": "Cuenta la forma en que ha influido sobre ti una película o un libro",
+	  "9": "Cuenta algo que hayas creado o que quieras crear",
+	  "10": "Cuenta una historia cualquiera en relación con una experiencia vital tuya",
+	  "11": "Cuenta una historia sobre algo emocionante que hayas vivido",
+	  "12": "Cuenta una historia sobre un recuerdo de tu escuela",
+	  "13": "Cuenta una historia sobre un momento en que te hayas sentido afortunado",
+	  "14": "Cuenta algo a lo que aspires o esperes con ilusión",
+	  "15": "Cuenta una historia sobre un momento que nunca olvidarás",
+	  "16": "Cuenta algo sobre tus juegos cuando eras niño",
+	  "17": "Haz la pregunta que desees a otro jugador",
+	  "18": "Habla de una persona que haya influido en tu vida",
+	  "19": "Cuenta una historia sobre algo que te haya enfurecido",
+	  "20": "Habla sobre un trabajo que hayas tenido o te gustaría tener",
+	  "21": "Cuenta una historia sobre una situación de peligro que hayas vivido",
+	  "22": "Habla sobre un lugar que te haga sentir bien",
+	  "23": "Cuenta una historia cualquiera en relación con una experiencia vital tuya",
+	  "24": "Cuenta una historia sobre algo que hayas extraviado o encontrado",
+	  "25": "Cuenta una historia sobre un momento en te sintieras orgulloso",
+	  "26": "Cuenta algo sobre tu familia",
+	  "27": "Describe un acontecimiento importante en tu vida",
+	  "28": "Cuenta una historia sobre algo que te hiciera feliz",
+	  "29": "Cuenta un piropo o un cumplido que hayas recibido",
+	  "30": "Cuenta una historia sobre una pertenencia que sea especial para ti",
+	  "31": "Habla de un momento que te gustaría revivir",
+	  "32": "Cuenta una historia sobre un error que hayas cometido",
+	  "33": "Cuenta algo de lo que te sientas agradecido",
+	  "34": "Habla de un talento que tengas y sobre cómo lo usas",
+	  "35": "Haz la pregunta que desees a otro jugador",
+	  "36": "Habla de un rasgo de tu personalidad que hayas heredado",
+	  "37": "Habla de alguien a quien eches de menos",
+	  "38": "Cuenta una historia cualquiera en relación con una experiencia vital tuya",
+	  "39": "Cuenta una historia sobre una ocasión en que incumplieras una norma",
+	  "40": "Cuenta una historia sobre una ocasión en que fueras generoso",
+	  "41": "Cuenta una historia sobre un período de tu vida que nunca olvidarás",
+	  "42": "Cuenta una historia sobre un regalo que hayas dado o recibido",
+	  "43": "Haz la pregunta que desees a otro jugador",
+	  "44": "Cuenta una historia en relación con una sorpresa",
+	  "45": "Habla de alguna de tus pasiones",
+	  "46": "Cuenta una historia sobre una ocasión en el que algo te haya dolido",
+	  "47": "Cuenta una historia sobre un momento en el que te hayas sentido nervioso",
+	  "48": "Habla de alguna ocasión en que hayas tenido éxito",
+	  "49": "Cuenta una historia sobre una ocasión en que hayas pasado miedo",
+	  "50": "Cuenta algo que valores sobre ti mismo"
+	}
+  }
