@@ -1,0 +1,84 @@
+{
+	"metadata": {
+		"language": "Italiano",
+		"rtl": false
+	},
+	"main": {
+		"play": "Gioca",
+		"how-to-play": "Come giocare",
+		"contact": "Contattaci"
+	},
+	"home": {
+		"title": "Più di una storia",
+		"description": "\"Più di una storia\" è un gioco di carte realizzato con l'obiettivo di costruire ponti tra persone di età, origini e culture diverse. Questa iniziativa si sta diffondendo in tutto il mondo grazie all'impegno di associazioni e semplici appassionati; per acquistare \"Più di una storia\" o per entrare nella nostra rete, contatta uno dei nostri partner o il Dipartimento Cultura e Svago di Simrishamn, in Svezia."
+	},
+	"play": {
+		"back": "Indietro",
+		"new-question": "Nuova domanda"
+	},
+	"how-to-play": {
+		"in-person-header": "In presenza",
+		"in-person": "Prima di tutto ognuno si presenta brevemente, poi la persona più anziana clicca su \"Nuova domanda\", legge il testo ad alta voce e risponde raccontando una storia. Gli altri ascoltano in maniera attiva e possono aiutare facendo domande. Quando il racconto è finito, il gioco continua in senso orario.",
+		"online-header": "Online",
+		"online": "È possibile giocare online esattamente come in presenza, utilizzando una qualsiasi piattaforma di comunicazione video. Una persona indicherà l'ordine di partenza e condividerà il proprio schermo per mostrare a tutti le domande.",
+		"tips-header": "Consigli per gli organizzatori",
+		"tip1": "In base alla nostra esperienza il gioco in presenza è ideale per gruppi da quattro a otto persone, mentre la versione online è da preferire per gruppi da quattro a sei persone.",
+		"tip2": "La durata ideale è da 40 minuti a un'ora."
+	},
+	"contact": {
+		"info": "Qui sotto puoi trovare ulteriori informazioni su \"Più di una storia\" e istruzioni approfondite su come giocare. Per qualsiasi domanda sul gioco o il progetto non esitare a contattarci."
+	},
+	
+	"questions": {
+		"1": "Parla di un tuo viaggio",
+		"2": "Parla di qualcosa di nuovo che ti piacerebbe fare",
+		"3": "Parla di una persona che ti fa stare bene",
+		"4": "Parla di un momento imbarazzante",
+		"5": "Descrivi la vita dei tuoi sogni",
+		"6": "Parla di una persona che ammiri e racconta perché",
+		"7": "Descrivi un luogo dove hai abitato da bambino o da bambina",
+		"8": "Parla di un film o di un libro che ti ha influenzato",
+		"9": "Parla di qualcosa che hai realizzato o che vorresti realizzare",
+		"10": "Racconta un'esperienza qualsiasi della tua vita",
+		"11": "Parla di qualcosa di elettrizzante che hai vissuto",
+		"12": "Racconta un ricordo di scuola",
+		"13": "Parla di quando hai avuto un colpo di fortuna",
+		"14": "Parla di qualcosa che stai aspettando con impazienza",
+		"15": "Parla di un momento che non potrai mai dimenticare",
+		"16": "Parla di come giocavi da bambino o da bambina",
+		"17": "Fai una domanda a piacere a un altro giocatore o a un'altra giocatrice",
+		"18": "Parla di una persona che ha influenzato la tua vita",
+		"19": "Parla di quella volta che hai avuto un momento di rabbia",
+		"20": "Parla di un lavoro che hai fatto o che vorresti fare",
+		"21": "Racconta di quando hai vissuto una situazione di pericolo",
+		"22": "Parla di un luogo che ti fa stare bene",
+		"23": "Racconta una storia a piacere su una tua esperienza di vita",
+		"24": "Parla di qualcosa che hai perso o trovato",
+		"25": "Racconta di quella volta in cui hai provato orgoglio",
+		"26": "Parla della tua famiglia",
+		"27": "Descrivi un evento importante della tua vita",
+		"28": "Racconta di qualcosa che ha reso o resa felice",
+		"29": "Parla di un complimento che ti hanno fatto",
+		"30": "Parla di qualcosa che hai e che consideri speciale",
+		"31": "Parla di un momento che vorresti rivivere",
+		"32": "Parla di un tuo errore",
+		"33": "Parla di qualcosa per cui provi gratitudine",
+		"34": "Parla di un tuo talento e di come lo sfrutti",
+		"35": "Fai una domanda a piacere a un altro giocatore o a un'altra giocatrice",
+		"36": "Parla di un tratto della tua personalità che hai ereditato",
+		"37": "Parla di qualcuno che ti manca",
+		"38": "Racconta una storia a piacere su una tua esperienza di vita",
+		"39": "Parla di quando hai infranto una regola",
+		"40": "Parla di un tuo gesto di generosità",
+		"41": "Racconta una storia su un periodo indimenticabile della tua vita",
+		"42": "Parla di un regalo fatto o ricevuto",
+		"43": "Fai una domanda a piacere a un altro giocatore o a un'altra giocatrice",
+		"44": "Racconta una storia a proposito di una sorpresa",
+		"45": "Parla di una delle tue passioni",
+		"46": "Parla di quella volta in cui qualcosa ti ha fatto male",
+		"47": "Parla di quella volta in cui hai provato nervosismo",
+		"48": "Parla di quella volta in cui hai avuto successo",
+		"49": "Parla di quella volta in cui hai provato paura",
+		"50": "Parla di qualcosa che ti piace di te"
+	}
+}
