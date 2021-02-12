@@ -1,0 +1,84 @@
+{
+	"metadata": {
+		"language": "Lietuviškai",
+		"rtl": false
+	  },
+	"main": {
+	  "play": "Žaisti",
+	  "how-to-play": "Kaip Žaisti",
+	  "contact": "Kontaktas"
+	},
+	"home": {
+	  "title": "Daugiau nei viena istorija",
+	  "description": "Daugiau nei viena istorija – tai kortų žaidimas, sukurtas siekiant tiesti tiltus tarp įvairaus amžiaus, kilmės ir kultūros žmonių. Asmenys ir organizacijos dirba kartu, kad sukurtų ir paskleistų „Daugiau nei vieną istoriją“ viso pasaulio žmonėms. Jei norite užsisakyti kortų žaidimą „Daugiau nei viena istorija“ arba būti mūsų tinklo dalimi, susisiekite su vienu iš mūsų partnerių arba Simrishamno kultūros ir laisvalaikio departamentu Švedijoje."
+	},
+	"play": {
+	  "back": "Grįžti",
+	  "new-question": "Naujas klausimas"
+	},
+	"how-to-play": {
+		"in-person-header": "Žaidžiant gyvai",
+		"in-person": "Jei dalyvaujantys tarpusavyje nepažįstami, pradėkite nuo trumpo visų prisistatymo. Pradeda vyriausias žaidėjas. Jis paspaudžia \"naujas klausimas\" ir garsiai perskaito klausimą. Tuomet pasakoja savo istoriją. Kiti aktyviai klausosi ir gali skatinti pasakotoją uždavinėdami klausimus, susijusius su tuo, ką išgirdo. Kai pasakotojas baigia, žaidimas tęsiamas toliau pagal laikrodžio rodyklę ta pačia procedūra.",
+		"online-header": "Žaidžiant internetu per nuotolį",
+		"online": "Internetu žaidžiama taip pat, kaip ir gyvai. Galite naudoti bet kurią jums patogią vaizdo ryšio platformą. Paskirkite asmenį, kuris seka, kieno eilė kalbėti, ir kuris dalijasi savo ekranu, kad būtų rodomi klausimai.",
+		"tips-header": "Patarimai vedėjams",
+		"tip1": "Mūsų patirtis rodo, kad žaidžiant gyvai geriausias grupės dydis yra 4-8, o žaidžiant internetu 4-6 asmenys.",
+		"tip2": "Optimalus žaidimo laikas yra tarp keturiasdešimt minučių ir vienos valandos"
+	},
+	"contact": {
+		"info": "Žemiau rasite daugiau informacijos apie žaidimą \"Daugiau nei viena istorija\" bei išsamesnį aprašymą, kaip žaisti. Susisiekite su mumis, jei turite klausimų apie \"Daugiau nei viena istorija\" kortų žaidimą ar projektą."
+	},
+  
+	"questions": {
+	  "1": "Papasakokite istoriją iš kokios nors savo kelionės",
+	  "2": "Papasakokite, ką naujo norėtumėte veikti",
+	  "3": "Papasakokite apie asmenį, su kuriuo jūs labai gerai jaučiatės",
+	  "4": "Papasakokite istoriją apie nepatogią, nesmagią akimirką",
+	  "5": "Papasakokite apie jūsų svajonių gyvenimą",
+	  "6": "Papasakokite apie žmogų, kuriuo jūs žavitės ir kodėl",
+	  "7": "Papasakokite apie vietą, kurioje praleidote vaikystę",
+	  "8": "Papasakokite, kokią įtaką jums padarė koks nors filmas ar knyga",
+	  "9": "Papasakokite apie tai, ką jūs sukūrėte, ar norėtumėte sukurti",
+	  "10": "Papasakokite apie kokį nors patyrimą iš jūsų gyvenimo",
+	  "11": "Papasakokite jaudinančią istoriją, kurią patyrėte",
+	  "12": "Papasakokite prisiminimą iš mokyklos laikų",
+	  "13": "Papasakokite istoriją kai jautėtės laimingu/laiminga",
+	  "14": "Papasakokite apie tai, ko jūs su nekantrumu laukiate",
+	  "15": "Papasakokite istoriją apie akimirką, kurios niekuomet nepamiršite",
+	  "16": "Papasakokite apie jūsų vaikystės žaidimus",
+	  "17": "Užduokite kokį nors klausimą kitam žaidėjui",
+	  "18": "Papasakokite apie žmogų, kuris padarė įtaką jūsų gyvenimui",
+	  "19": "Papasakokite istoriją kai jūs buvote įsiutęs",
+	  "20": "Papasakokite apie darbą, kurį dirbote ar norėtumėte dirbti",
+	  "21": "Papasakokite istoriją kai jūs buvote pavojuje",
+	  "22": "Papasakokite apie vietą, kurioje jūs gerai jaučiatės",
+	  "23": "Papasakokite apie ritualus kuriuos turite",
+	  "24": "Papasakokite istoriją apie tai, ką jūs suradote ar pametėte",
+	  "25": "Papasakokite apie momentą, kuriuo jūs didžiavotės",
+	  "26": "Papasakokite ką nors apie jūsų šeimą",
+	  "27": "Papasakokite apie didį jūsų gyvenimo įvykį",
+	  "28": "Papasakokite istoriją kai jautėtės laimingu",
+	  "29": "Papasakokite apie gautą komplimentą",
+	  "30": "Papasakokite istoriją apie turimą daiktą, kuris jums yra ypatingas",
+	  "31": "Papasakokite apie momentą, kurį dar kartą norėtumėte išgyventi",
+	  "32": "Papasakokite apie klaidą, kurią padarėte",
+	  "33": "Papasakokite apie ką nors, už ką jūs esate dėkingas",
+	  "34": "Papasakokite apie savo talentą ir kaip juo naudojatės",
+	  "35": "Papasakokite apie sapną, kurį sapnavote",
+	  "36": "Papasakokite apie charakterio savybę, kurią paveldėjote",
+	  "37": "Papasakokite apie žmogų, kurio jūs ilgitės",
+	  "38": "Papasakokite apie juokingą situaciją, kurią patyrėte",
+	  "39": "Papasakokite istoriją apie tai, kaip jūs nusižengėte taisyklėms",
+	  "40": "Papasakokite istoriją kai jūs buvote dosnus",
+	  "41": "Papasakokite apie savo gyvenimo periodą, kurį jūs visada prisiminsite",
+	  "42": "Papasakokite istoriją apie dovaną, kurią padovanojote arba gavote",
+	  "43": "Paprašykite kito žaidėjo užduoti jums klausimą ",
+	  "44": "Papasakokite istoriją apie staigmeną",
+	  "45": "Papasakokite apie vieną jūsų aistrų",
+	  "46": "Papasakokite apie jums skausmingą laiką",
+	  "47": "Papasakokite apie momentą kai jūs buvote susinervinęs",
+	  "48": "Papasakokite apie jums sėkmingą laiką",
+	  "49": "Papasakokite apie laiką, kada jūs buvote išsigandęs",
+	  "50": "Papasakokite apie tai, kas jums jumyse patinka"
+	}
+  }
