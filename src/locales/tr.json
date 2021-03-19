@@ -1,0 +1,85 @@
+{
+    "metadata": {
+        "language": "Türk",
+        "rtl": false
+    },
+    "main": {
+      "play": "oyun",
+      "how-to-play": "nasıl oynanılar",
+      "contact": "İletişim"
+    },
+    "home": {
+        "title": "Birden Fazla Hikaye",
+        "description": "Birden Fazla Hikaye, her yaştan, her kökenden ve kültürden insan arasında köprüler kurmak için geliştirilmişd bir kart oyunudur. Bireyler ve kuruluşlar, Birden Fazla Hikaye üretmek ve dünyanın dört bir yanındaki insanlara yaymak için birlikte çalışır. Birden Fazla Hikaye kart oyununu sipariş etmek veya ağımızın bir parçası olmak istiyorsanız, lütfen ortaklarımızdan biriyle veya Simrishamn, İsveç'teki Kültür ve Eğlence İdaresi ile iletişime geçmekten çekinmeyin. "
+    },
+    "play": {
+      "back": "geri",
+      "new-question": "Yeni soru"
+    },
+    "how-to-play": {
+        "in-person-header": "Aynı odada",
+        "in-person": "Her oyuncunun kısa bir sunumuyla başlayın. En yaşlı katılımcı \"yeni soru\" ya basar ve soruyu yüksek sesle okur. Oyuncu bir hikaye anlatır. Diğerleri aktif olarak dinler ve soru sorarak anlatıcıyı teşvik edebilir . Hikaye bittiğinde oyun saat yönünde devam eder. ",
+        "online-header": "Çevrimiçi",
+        "online": "Herhangi bir görüntülü iletişim platformunu kullanarak tam olarak aynı şekilde çevrimiçi oynayabilirsiniz. Soruları görüntülemek için kimin sırasının geldiğini ve ekranını kimin paylaştığını gruptaki bir kişinin sorumlu olmasına izin verin.",
+        "tips-header": "Organizatörler için ipuçları",
+        "tip1": "Deneyimimiz, dört ila sekiz kişilik grupların aynı odada en iyi şekilde çalıştığı, dört ila altı kişinin ise en iyi çevrimiçi çalıştığı yönündedir.",
+        "tip2": "Oynamak için yaklaşık 40 dakika ila bir saat yeterlidir."
+    },
+    "contact": {
+        "info": "Aşağıda projemiz hakkında daha fazla bilgi ve oyunun nasıl ilerleyeceğine dair daha ayrıntılı talimatlar bulabilirsiniz. Proje veya kart oyunu More Than One Story hakkında sorularınız varsa bize e-posta göndermekten çekinmeyin."
+    },
+
+    "questions": {
+
+        "1": "Bize yaptığınız bir seyahatten bir hikaye anlatın",
+        "2": "Bize yapmak istediğiniz yeni bir şeyden bahsedin",
+        "3": "Sizi mutlu eden biri hakkında konuşun",
+        "4": "Size utanç verici bir durum hakkında bir hikaye anlatın",
+        "5": "Hayal ettiğiniz hayatı anlatın",
+        "6": "Sevdiğiniz biri hakkında ve neden konuşun",
+        "7": "Çocukken yaşadığın yeri bize anlat",
+        "8": "Sizi etkileyen bir film veya kitap hakkında konuşun",
+        "9": "Bize yarattığınız veya yaratmak istediğiniz bir şeyden bahsedin",
+        "10":"Bize hayatınızda yaşamış olduğunuz bir deneyim hakkında seçtiğiniz bir hikaye anlatın",
+        "11": "Bize deneyimlediğiniz heyecan verici bir şey hakkında bir hikaye anlatın",
+        "12": "Okul günlerinden bir anıdan bahsedin",
+        "13": "Bize kendinizi şanslı hissettiğiniz bir zaman hakkında bir hikaye anlatın",
+        "14": "Bize dört gözle beklediğiniz bir şeyden bahsedin",
+        "15": "Bize her zaman hatırlayacağınız bir andan bahsedin",
+        "16": "Bize çocukken nasıl oynadığını anlat",
+        "17": "Seçtiğiniz başka bir oyuncuya sorun",
+        "18": "Hayatınızı etkileyen biri hakkında konuşun",
+        "19": "Bize öfke duyduğunuz bir durum hakkında bir hikaye anlatın",
+        "20": "İşiniz veya sahip olmak istediğiniz bir iş hakkında konuşun",
+        "21": "Tehlikede olduğunuz bir durum hakkında konuşun",
+        "22": "Sizi mutlu eden bir yerden bahsedin",
+        "23": "Bize hayatınızda yaşadığınız bir deneyim hakkında seçtiğiniz bir hikaye anlatın",
+        "24": "Kaybettiğiniz veya bulduğunuz bir şey hakkında konuşun",
+        "25": "Bize gurur duyduğunuz bir durum hakkında bir hikaye anlatın",
+        "26": "Bize aileniz hakkında bir şeyler söyleyin",
+        "27": "Bize hayatınızdaki önemli bir olaydan bahsedin",
+        "28": "Sizi mutlu eden bir şeyden bahsedin.",
+        "29": "Bize aldığınız iltifattan bahsedin",
+        "30": "Bize sahip olduğunuz bir şeyi söyleyin",
+        "31": "Bize yeniden yaşamak istediğiniz bir andan bahsedin",
+        "32": "Bize yaptığınız bir hata hakkında bir hikaye anlatın",
+        "33": "Bize minnettar olduğunuz bir şey söyleyin",
+        "34": "Bize sahip olduğunuz bir yeteneği ve bunu nasıl uyguladığınızı anlatın",
+        "35": "Bir takım arkadaşına herhangi bir soruyu sorun",
+        "36": "Miras aldığınız bir kişilik özelliği hakkında konuşun",
+        "37": "Özlediğin biri hakkında konuş",
+        "38": "Bize hayatınızda yaşadığınız bir deneyim hakkında seçtiğiniz bir hikaye anlatın",
+        "39": "Bize bir kuralı çiğnediğiniz bir durum hakkında bir hikaye anlatın",
+        "40": "Cömert olduğunuz bir durum hakkında konuşun",
+        "41": "Hayatınızda her zaman hatırlayacağınız bir dönemden bahsedin",
+        "42": "Bize verdiğiniz veya aldığınız bir hediyeden bahsedin.",
+        "43": "Başka bir oyuncuya kendi seçtiğiniz bir soruyu sorun",
+        "44": "Bize bir sürpriz hakkında bir hikaye anlatın",
+        "45": "Bize tutkunuzdan bahsedin",
+        "46": "Bize acı hissettiğin bir zaman hakkında bir hikaye anlat",
+        "47": "Bize stresli hissettiğiniz bir durum hakkında bir hikaye anlatın",
+        "48": "Hayatınızdaki başarı anlarından biri hakkında konuşun",
+        "49": "Bize korktuğum bir an hakkında bir hikaye anlatın",
+        "50": "Bize kendinizle ilgili değer verdiğiniz bir şeyden bahsedin"
+    }
+}
