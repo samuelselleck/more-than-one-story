@@ -1,0 +1,84 @@
+{
+	"metadata": {
+		"language": "Português",
+		"rtl": false
+	  },
+	"main": {
+	  "play": "Jogar",
+	  "how-to-play": "Como jogar",
+	  "contact": "Contato"
+	},
+	"home": {
+	  "title": "Muito Mais Que Uma História",
+	  "description": "Muito Mais Que Uma História é um jogo de cartas feito para construir pontes entre pessoas de todas as idades, origens e culturas. Indivíduos e organizações estão trabalhando para produzir e espalhar o Muito Mais Que Uma História para pessoas de todo o mundo. Se você quiser encomendar o jogo de cartas Muito Mais Que Uma História ou se tornar parte da nossa rede, é só entrar em contato com um dos nossos parceiros ou o Departamento de Cultura e Lazer de Simrishamn, Suécia."
+	},
+	"play": {
+	  "back": "Atrás",
+	  "new-question": "Nova pergunta"
+	},
+	"how-to-play": {
+		"in-person-header": "Pessoalmente",
+		"in-person": "Comecem com uma apresentação curta de cada jogador(a). Defina um participante para começar apertando \"nova pergunta\" e leia a pergunta correspondente em voz alta. Aí, o(a) jogador(a) conta uma história. Os outros escutam ativamente e podem fazer perguntas para encorajar o(a) contador(a) da história. Quando o(a) contador(a) finalizar, o jogo continua no sentido horário.",
+		"online-header": "Online",
+		"online": "Você pode jogar online assim como você faria pessoalmente, utilizando qualquer plataforma de comunicação de vídeo. Escolham alguém para monitorar a vez de cada um(a) e o compartilhamento de tela para mostrar as perguntas.",
+		"tips-header": "Dicas para os organizadores",
+		"tip1": "Nossa experiência é de que grupos de quatro a oito participantes funcionam melhor pessoalmente, enquanto os de quatro a seis pessoas funcionam melhor online.",
+		"tip2": "Uma duração recomendada para o jogo é em torno de 40 minutos a uma hora"
+	},
+	"contact": {
+		"info": "Abaixo você pode achar mais informações sobre o Muito Mais Que Uma História, além de instruções mais detalhadas para jogar. Caso tenha alguma pergunta sobre o projeto e/ou o jogo de cartas Muito Mais Que Uma História, entre em contato conosco."
+	},
+  
+	"questions": {
+	  "1": "Conte uma história de uma viagem que você fez",
+	  "2": "Conte sobre algo novo que você gostaria de fazer",
+	  "3": "Conte sobre uma pessoa que te faz se sentir bem",
+	  "4": "Conte uma história sobre um momento constrangedor",
+	  "5": "Descreva a vida dos seus sonhos",
+	  "6": "Conte sobre alguém que você admira e o porquê",
+	  "7": "Descreva o lugar em que você viveu quando era criança",
+	  "8": "Conte sobre como um filme ou um livro te influenciou",
+	  "9": "Conte sobre algo que você criou ou gostaria de criar",
+	  "10": "Conte uma história à sua escolha sobre uma experiência de vida",
+	  "11": "Conte uma história sobre algo emocionante que tenha vivido",
+	  "12": "Conte uma história sobre uma memória da escola",
+	  "13": "Conte uma história sobre um momento em que você tenha se sentido sortudo(a)",
+	  "14": "Conte sobre algo que você deseja",
+	  "15": "Conte uma história sobre um momento que você vai se lembrar pra sempre",
+	  "16": "Conte sobre uma brincadeira da sua infância",
+	  "17": "Faça uma pergunta à sua escolha para outro participante",
+	  "18": "Conte sobre uma pessoa que impactou sua vida",
+	  "19": "Conte sobre um momento em que você ficou com raiva",
+	  "20": "Conte sobre uma experiência de trabalho que você teve ou gostaria de ter",
+	  "21": "Conte uma história sobre um momento em que você esteve em perigo",
+	  "22": "Conte sobre um lugar que te faz se sentir bem",
+	  "23": "Conte uma história à sua escolha sobre uma experiência de vida",
+	  "24": "Conte uma história sobre algo que você perdeu ou encontrou",
+	  "25": "Conte uma história sobre um momento em que você ficou orgulhoso(a)",
+	  "26": "Conte algo sobre sua família",
+	  "27": "Descreva um grande acontecimento na sua vida",
+	  "28": "Conte uma história sobre algo que te fez sentir feliz",
+	  "29": "Conte sobre um elogio que você já recebeu",
+	  "30": "Conte uma história sobre algo especial que você possui",
+	  "31": "Conte sobre um momento que você gostaria de reviver",
+	  "32": "Conte uma história sobre um erro que você cometeu",
+	  "33": "Conte sobre algo pelo qual você é grato(a)",
+	  "34": "Conte sobre um talento que você tem e como você o usa",
+	  "35": "Faça uma pergunta à sua escolha para outro participante",
+	  "36": "Conte sobre um traço de personalidade que você herdou",
+	  "37": "Conte sobre alguém que você sente falta",
+	  "38": "Conte uma história à sua escolha sobre uma experiência de vida",
+	  "39": "Conte uma história sobre um momento em que você quebrou alguma regra",
+	  "40": "Conte uma história sobre um momento em que você foi generoso(a)",
+	  "41": "Conte uma história sobre um período da sua vida que você vai se lembrar para sempre",
+	  "42": "Conte uma história sobre um presente que você deu ou que você recebeu",
+	  "43": "Faça uma pergunta à sua escolha para outro participante",
+	  "44": "Conte uma história sobre uma surpresa",
+	  "45": "Conte sobre uma das suas paixões",
+	  "46": "Conte uma história sobre um momento em que algo tenha te machucado",
+	  "47": "Conte uma história sobre um momento em que você estava nervoso(a)",
+	  "48": "Conte sobre uma vez em que você teve sucesso",
+	  "49": "Conte uma história sobre um momento em que você estava com medo",
+	  "50": "Conte sobre algo que você admira em você mesmo(a)"
+	}
+}
