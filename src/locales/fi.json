@@ -1,0 +1,84 @@
+{
+    "metadata": {
+		"language": "Suomi",
+		"rtl": false
+	},
+	"main": {
+      "play" : "Pelaa",
+      "how-to-play" : "Kuinka pelataan",
+      "contact" : "Ota yhteyttä"
+    },
+    "home": {
+	  "title": "More Than One Story",
+	  "description": "More Than One Story on korttipeli, joka on suunniteltu yhdistämään ihmisiä iästä, taustasta tai kulttuurista riippumatta. Yksityiset ihmiset, koulut ja organisaatiot työskentelevät yhdessä, jotta More Than One Story leviäisi ympäri maailman. Jos haluaisit tilata itsellesi More Than One Story -pakan tai olla osa verkostostamme, ota yhteyttä meihin (www.simrishamn.se/mtos)."
+    },
+    "play": {
+	  "back": "Takaisin",
+      "new-question": "Uusi kysymys"
+	},
+	"how-to-play": {
+		"in-person-header": "Samassa huoneessa",
+		"in-person": "Aloittakaa jokaisen pelaajan lyhyellä esittelyllä. Vanhin pelaaja klikkaa \"uusi kysymys\" ja lukee kysymys ääneen. Vuorossa oleva pelaaja kertoo tarinan, muut kuuntelevat aktiivisesti ja rohkaisevat kertojaa kysymällä syventäviä kysymyksiä. Kun tarina on kerrottu on seuraavan pelaajan vuoro myötäpäivään.",
+		"online-header": "Online",
+		"online": "Voitte pelata peliä aivan samalla tavalla myös verkossa jonkun videosovelluksen avulla. Pyydä jotakuta ryhmän jäsentä pitämään lukua, kenen vuoro on seuraavaksi ja kuka jakaa näyttönsä kysymyksien esittämiseen.",
+		"tips-header": "Vinkkejä järjestäjille",
+		"tip1": "Kokemuksemme mukaan samassa huoneessa pelatessa 4 ̶ 8 hengen ryhmä toimii parhaiten, kun taas online-pelaamisessa paras ryhmäkoko on 4 ̶ 6 henkilöä.",
+		"tip2": "Sopiva peliaika on noin 40 ̶ 60 minuuttia."
+	},
+    "contact": {
+		"info": "Alla löydät enemmän tietoa projektistamme ja yksityiskohtaisemmat peliohjeet. Jos sinulla on lisää kysymyksiä projektista tai korttipelistä More Than One Story, lähetä meille sähköpostia!."
+	},
+	
+	"questions": {
+	  "1": "Kerro tarina matkasta, jonka olet tehnyt",
+	  "2": "Kerro jostain uudesta asiasta, jonka haluaisit toteuttaa",
+	  "3": "Kerro ihmisistä, joka saa sinut tuntemaan olosi hyväksi",
+	  "4": "Kerro tarina nolosta hetkestä",
+	  "5": "Kuvaile unelmiesi elämä",
+	  "6": "Kerro ketä ihailet ja miksi",
+	  "7": "Kuvaile paikkaa, jossa asuit lapsena",
+	  "8": "Kerro, kuinka elokuva tai kirja on vaikuttanut sinuun",
+	  "9": "Kerro jostain, minkä olet luonut tai haluaisit luoda",
+	  "10": "Kerro haluamasi kokemus omasta elämästäsi",
+	  "11": "Kerro jokin sinua innostanut asia",
+	  "12": "Kerro jokin koulumuistosi",
+	  "13": "Kerro tilanteesta, jossa sinusta on tuntunut onnekkaalta",
+	  "14": "Kerro mitä tällä hetkellä odotat innokkaasti",
+	  "15": "Kerro jokin asia, joka on jäänyt pysyvästi mieleesi",
+	  "16": "Kerro miten leikit lapsena",
+	  "17": "Kysy haluamasi kysymys toiselta pelaajalta",
+	  "18": "Kerro henkilöltä, jolla on ollut suuri vaikutus elämääsi",
+	  "19": "Kerro tilanteesta, joka sai sinut suuttumaan",
+	  "20": "Kerro sinua kiinnostavasta työpaikasta tai ammatista",
+	  "21": "Kerro tilanteesta, jolloin olit kenties vaarassa",
+	  "22": "Kerro jostakin paikasta, jossa sinun oli hyvä olla",
+	  "23": "Kerro haluamasi kokemus omasta elämästäsi",
+	  "24": "Kerro jostain, minkä olet löytänyt tai hukannut",
+	  "25": "Kerro tarina hetkestä, kun olit ylpeä",
+	  "26": "Kerro jotain perheestäsi",
+	  "27": "Kuvaile jotain elämäsi tärkeää tapahtumaa",
+	  "28": "Kerro jostain, mikä teki sinut iloiseksi",
+	  "29": "Kerro kohteliaisuudesta, jonka olet saanut",
+	  "30": "Kerro tarina jostain sinulle erityisestä esineestä tai asiasta",
+	  "31": "Kerro hetkestä, jonka tahtoisit elää uudelleen",
+	  "32": "Kerro tarina tekemästäsi virheestä",
+	  "33": "Kerro, mistä olet kiitollinen",
+	  "34": "Kerro, mistä olet hyvä ja miten sitä hyödynnät ",
+	  "35": "Kysy haluamasi kysymys toiselta pelaajalta",
+	  "36": "Kerro persoonallisuuspiirteestä jonka tiedät perineesi",
+	  "37": "Kerro ihmisestä, jota kaipaat",
+	  "38": "Kerro haluamasi kokemus omasta elämästäsi",
+	  "39": "Kerro tarina siitä, kun rikoit sääntöä",
+	  "40": "Kerro tarina anteliaisuudestasi",
+	  "41": "Kerro tarina ikimuistoisesta ajanjaksosta elämässäsi",
+	  "42": "Kerro tarina lahjasta, jonka olet saanut tai antanut",
+	  "43": "Kysy haluamasi kysymys toiselta pelaajalta",
+	  "44": "Kerro tarina yllätyksestä",
+	  "45": "Kerro jostain, mihin suhtaudut intohimoisesti",
+	  "46": "Kerro tarina siitä, kun jokin satutti tai loukkasi sinua",
+	  "47": "Kerro tarina hetkestä, jolloin olit hermostunut",
+	  "48": "Kerro tarina hetkestä, jolloin onnistuit",
+	  "49": "Kerro tarina hetkestä, jolloin olit peloissasi",
+	  "50": "Kerro jostain, mitä arvostat itsessäsi"	  
+	}
+}
