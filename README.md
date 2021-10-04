@@ -1,24 +1,4 @@
 # more-than-one-story
 
-## Project setup
-```
-npm install
-```
+Digital version of the card game More Than One Story, see [https://www.morethanonestory.org/en](url).
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
