@@ -1,0 +1,88 @@
+{
+	"metadata": {
+		"language": "Deutsch",
+		"rtl": false
+	},
+	"main": {
+	  "play": "Spiel",
+	  "how-to-play": "Spielanleitung",
+	  "contact": "Kontakt"
+	},
+	"home": {
+	  "title": "More Than One Story",
+	  "description": "More Than One Story ist ein Kartenspiel, das entwickelt wurde, um Brücken zwischen Menschen aller Altersgruppen, Hintergründen und Kulturen zu bauen. Einzelne Personen und Institutionen arbeiten zusammen, um „More Than One Story“ zu produzieren und an Menschen auf der ganzen Welt zu erreichen. Wenn Sie das Kartenspiel More Than One Story bestellen oder Teil unseres Netzwerks werden möchten, wenden Sie sich bitte an einen unserer Partner oder an die Abteilung für Kultur und Freizeit in Simrishamn, Schweden"
+	},
+	"play": {
+	  "back": "Zurück",
+	  "new-question": "Neue Frage"
+	},
+	"how-to-play": {
+		"paragraphs": {
+		   "paragraph-1": "Unsere Erfahrung ist, dass Gruppen von vier bis sechs Personen am besten geeignet sind. Die Gruppe sollte mindestens eine Stunde Zeit zum Spielen haben. Es ist sehr wichtig, dass jede und jeder eine funktionierende Videokamera und eine gute Internetverbindung hat. Die Teilnehmenden sollten ermutigt werden, diese vor Beginn zu testen.",
+		   "paragraph-2": "Die Person, die die Gruppe anleitet, erklärt zunächst, wie das Spiel online gespielt wird. Dann können die Namen der Teilnehmenden in einem Kreis, auf Papier oder auf dem Bildschirm gezeichnet werden. Die Teilnehmenden, dass sie können diesen Kreis kopieren, um zu wissen, wer an der Reihe ist.",
+		   "paragraph-3": "Wechseln Sie sich im Kreis ab, um jeden Spieler und jede Spielerin kurz vorzustellen. Die Person, die die Gruppe anleitet, öffnet dann den PLAY-Bereich dieser Website, teilt den Bildschirm mit allen und drückt dann jeweils NEUE KARTE. Derjenige oder diejenige, der oder die dann die Geschichte erzählt, liest die Karte laut vor, nimmt sich Zeit zum Nachdenken und erklärt dann, wenn eine Idee für eine Geschichte parat ist. Die Person, die die Gruppe anleitet, hebt dann die Bildschirmteilung auf, damit sich alle sehen können, während der Teilnehmer oder die Teilnehmerin die Geschichte erzählt.",
+		   "paragraph-4": "Die anderen hören aktiv zu. Wir empfehlen, dass alle Spieler ihre Mikrofone eingeschaltet lassen, damit sie den Geschichtenerzähler oder die Erzählerin ermutigen und vielleicht auch Fragen stellen können. Sobald der Geschichtenerzähler oder die Erzählerin fertig ist, geht das Spiel im Uhrzeigersinn im Kreis weiter. Die Person, die die Gruppe leitet, sollte darauf achten, dass jeder Spieler oder jede Spielerin ungefähr gleich viel Zeit bekommt, um Geschichten zu erzählen.",
+		   "paragraph-5": "Es lassen sich so viele Runden spielen, wie Ihr möchtet. Freie Konversation zwischen den Geschichten ist gerne erlaubt."
+		}
+	},
+	"contact": {
+		"paragraphs": {
+			"text": "Nachfolgend findest Du weitere Informationen zu More Than One Story. Bitte kontaktiere uns, wenn Du Fragen zum Kartenspiel oder zum Projekt More Than One Story hast."
+		}
+	},
+
+
+"questions": {
+
+                   "1": "Erzähle eine Geschichte von einer Reise, die Du gemacht hast",
+	  "2": "Erzähle über etwas Neues, das Du gerne machen würdest",
+	  "3": "Erzähle über eine Person, die dir gute Laune bereitet und bei der Du dich wohlfühlst",
+	  "4": "Erzähle etwas über einen peinlichen Moment in Deinem Leben",
+	  "5": "Beschreibe das Leben Deiner Träume",
+	  "6": "Erzähle über eine Person, die Du bewunderst und erzähle warum",
+	  "7": "Beschreibe  einen Ort, an dem du als Kind gelebt hast",
+	  "8": "Erzähle darüber, wie ein Film oder ein Buch dich beeinflusst hat",
+	  "9": "Erzähle etwas darüber, was Du gestaltet oder hergestellt hast",
+	  "10": "Erzähle eine Geschichte über eine Erfahrung in Deinem Leben",
+	  "11": "Erzähle eine Geschichte über etwas Spannendes oder Aufregendes, das Du erlebt hast",
+	  "12": "Erzähle eine Geschichte über eine Erinnerung aus der Schule",
+	  "13": "Erzähle eine Geschichte aus einer Zeit, als Du dich glücklich gefühlt hast",
+	  "14": "Erzähle über etwas, auf das Du dich freust",
+	  "15": "Erzähle eine Geschichte über einen Moment, den Du immer in Erinnerung behalten wirst",
+	  "16": "Erzähle etwas darüber, wie oder was Du als Kind gespielt hast",
+	  "17": "Stelle einem anderen Spieler oder einer anderen Spielerin eine Frage Deiner Wahl",
+	  "18": "Erzähle über eine Person, die einen Einfluss in deinem Leben hatte",
+	  "19": "Erzähle eine Geschichte über einen Moment, als Du wütend warst",
+	  "20": "Erzähle etwas über einen Job, den Du hattest oder gerne haben würdest",
+	  "21": "Erzähle eine Geschichte über eine Zeit, in der Du in Gefahr warst",
+	  "22": "Erzähl etwas über einen Ort, an dem Du dich wohl fühlst",
+	  "23": "Erzähle eine Geschichte über eine Erfahrung in deinem Leben",
+	  "24": "Erzähle eine Geschichte über etwas, das Du verloren oder gefunden hast",
+	  "25": "Erzähle eine Geschichte über einen Moment, als Du stolz warst",
+	  "26": "Erzähle etwas über deine Familie",
+	  "27": "Beschreibe ein großes Ereignis in Deinem Leben",
+	  "28": "Erzähle eine Geschichte über etwas, das Dich glücklich gemacht hat",
+	  "29": "Erzähle von einem Kompliment, das Du erhalten hast",
+	  "30": "Erzähle eine Geschichte über etwas, das Du besitzt und das etwas Besonderes für Dich darstellt",
+	  "31": "Erzähle über einen Moment, den Du gerne nochmal erleben würdest",
+	  "32": "Erzähle eine Geschichte über einen Fehler, den Du gemacht hast",
+	  "33": "Erzähle über etwas, wofür Du dankbar bist",
+	  "34": "Erzähle über eine Begabung, die Du hast und wie Du sie nutzt oder einsetzt",
+	  "35": "Stelle einem anderen Spieler oder einer anderen Spielerin eine Frage",
+	  "36": "Erzähle über ein Persönlichkeitsmerkmal, das Du geerbt hast",
+	  "37": "Erzähle über etwas, das Du vermisst",
+	  "38": "Erzähle eine Geschichte über eine Erfahrung in Deinem Leben",
+	  "39": "Erzähle eine Geschichte über eine Zeit, als Du (mal) die Regeln nicht eingehalten hast",
+	  "40": "Erzähle eine Geschichte über eine Zeit, als Du großzügig warst",
+	  "41": "Erzähle eine Geschichte über eine Lebensphase, die Du immer in Erinnerung behalten wirst",
+	  "42": "Erzähle eine Geschichte über ein Geschenk, das Du immer in Erinnerung behalten wirst",
+	  "43": "Stelle einem anderen Spieler oder einer anderen Spielerin eine Frage Deiner Wahl",
+	  "44": "Erzähle eine Geschichte von einer Überraschung, die Du erlebt hast",
+	  "45": "Erzähle eine Geschichte über Deine Leidenschaften",
+	  "46": "Erzähle eine Geschichte über eine Zeit, in der so manches weh tat",
+	  "47": "Erzähle eine Geschichte über eine Zeit, in der Du nervös oder aufgeregt warst",
+	  "48": "Erzähle über eine Zeit, als Du etwas erreicht hast und erfolgreich warst",
+	  "49": "Erzähle eine Geschichte über eine Zeit, in der Du erschrocken warst",
+	  "50": "Erzähle über etwas, das Du an dir selbst wertschätzt"
+	}
+}
