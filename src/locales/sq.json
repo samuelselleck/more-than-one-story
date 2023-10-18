@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "language": "Shqip",
+        "rtl": false
+    },
+    "main": {
+        "play": "Luaj",
+        "how-to-play": "Si të luash?",
+        "contact": "Kontakto"
+    },
+    "home": {
+        "title": "Më Shumë Se Një Histori",
+        "description": "Më shumë se një histori është një lojë me letra e projektuar për të ndërtuar ura mes njerëzve të të gjitha moshave, prejardhjeve dhe kulturave. Individë dhe organizata po punojnë së bashku për të prodhuar dhe përhapur “Më Shumë Se Një Histori” tek njerëzit në të gjithë botën. Nëse dëshironi të porosisni lojën e letrave “Më Shumë Se Një Histori” ose të bëheni pjesë e rrjetit tonë, ju lutemi të kontaktoni një nga partnerët tanë ose Departamentin e Kulturës dhe Argëtimit, Simrishamn, Suedi."
+    },
+    "play": {
+        "back": "Kthehu mbrapa",
+        "new-question": "Pyetje tjetër"
+    },
+    "how-to-play": {
+        "in-person-header": "Fizikisht",
+        "in-person": "Filloni me një prezantim të shkurtër të secilit lojtar. Pjesëmarrësi më i madh në moshë fillon duke klikuar 'pyetje tjetër' dhe lexon pyetjen me zë. Pastaj lojtari tregon një histori. Të tjerët dëgjojnë aktivisht dhe mund të inkurajojnë treguesin e historisë duke bërë pyetje shtesë rreth historisë. Kur treguesi i historisë përfundon, loja vazhdon duke ndjekur radhën sipas akrepave të orës.",
+        "online-header": "Online",
+        "online": "Mund të luani online në të njëjtën mënyrë si në fizikisht, duke përdorur çdo platformë komunikimi video. Caktoni dikë që të mbajë shënim radhën e secilit dhe që ndan ekranin për të shfaqur pyetjet.",
+        "tips-header": "Këshilla për Organizatorët",
+        "tip1": "Eksperienca jonë tregon se grupet me katër deri në tetë persona funksionojnë më mirë kur loja luhet fizikisht, ndërsa grupet me katër deri në gjashtë persona funksionojnë më mirë online.",
+        "tip2": "Rreth 40 minuta deri në një orë është një kohë e përshtatshme për të luajtur"
+    },
+    "contact": {
+        "info": "Këtu mund të gjeni më shumë informacione rreth “Më Shumë Se Një Histori”, si edhe një përshkrim më të thellë rreth mënyrës së lojës. Ju lutemi të na kontaktoni nëse keni ndonjë pyetje rreth lojës së letrave “Më Shumë Se Një Histori” ose projektit."
+    },
+    "questions": {
+        "1": "Tregoni një histori nga një udhëtim që keni bërë",
+        "2": "Tregoni rreth diçkaje të re që do të donit të bënit",
+        "3": "Tregoni për një person që ju bën të ndiheni mirë",
+        "4": "Tregoni një histori rreth një momenti të neveritshëm",
+        "5": "Përshkruani jetën e ëndrrave tuaja",
+        "6": "Tregoni rreth një personi që admironi dhe pse",
+        "7": "Përshkruani një vend ku keni jetuar që fëmijë",
+        "8": "Tregoni rreth mënyrës së cilës një film ose një libër ka pasur ndikim tek ju",
+        "9": "Tregoni për diçka që keni krijuar ose do të donit të krijonit",
+        "10": "Tregoni një histori të zgjedhur nga një përvojë në jetën tuaj",
+        "11": "Tregoni një histori rreth diçkaje emocionuese që keni përjetuar",
+        "12": "Tregoni një histori nga një kujtim shkolle",
+        "13": "Tregoni një histori rreth një momenti kur jeni ndjerë me fat",
+        "14": "Tregoni rreth diçkaje që po e prisni me padurim",
+        "15": "Tregoni një histori rreth një momenti që do të kujtoni gjithmonë",
+        "16": "Tregoni rreth mënyrës se si luanit kur ishit fëmijë",
+        "17": "Bëjini një pyetje një lojtari tjetër",
+        "18": "Tregoni rreth një personi që ka pasur ndikim në jetën tuaj",
+        "19": "Tregoni një histori rreth një momenti kur jeni zemëruar",
+        "20": "Tregoni rreth një detyre që keni pasur ose do të donit të kishit",
+        "21": "Tregoni një histori rreth një momenti kur keni qenë në rrezik",
+        "22": "Tregoni për një vend që ju bën të ndiheni mirë",
+        "23": "Tregoni një histori të zgjedhur nga një përvojë në jetën tuaj",
+        "24": "Tregoni një histori rreth diçkaje që keni humbur ose gjetur",
+        "25": "Tregoni një histori rreth një momenti kur jeni ndjerë krenar",
+        "26": "Tregoni diçka rreth familjes suaj",
+        "27": "Përshkruani një ngjarje të madhe në jetën tuaj",
+        "28": "Tregoni një histori rreth diçkaje që ju ka bërë të lumtur",
+        "29": "Tregoni rreth një komplimenti që keni marrë",
+        "30": "Tregoni një histori rreth diçkaje që e keni dhe që është e veçantë për ju",
+        "31": "Tregoni rreth një momenti të cilin do të donit ta jetonit përsëri",
+        "32": "Tregoni një histori rreth një gabimi që keni bërë",
+        "33": "Tregoni rreth diçkaje për të cilën jeni mirënjohës",
+        "34": "Tregoni rreth një talenti që keni dhe se si e përdorni",
+        "35": "Bëjini një pyetje një lojtari tjetër",
+        "36": "Tregoni rreth një tipari personal që keni trashëguar",
+        "37": "Tregoni rreth një personi që ju mungon",
+        "38": "Tregoni një histori të zgjedhur nga një përvojë në jetën tuaj",
+        "39": "Tregoni një histori rreth një momenti kur keni shkelur një rregull",
+        "40": "Tregoni një histori rreth një momenti kur keni qenë i mëshirshëm",
+        "41": "Tregoni një histori rreth një periudhe në jetën tuaj që do ta kujtoni gjithmonë",
+        "42": "Tregoni një histori rreth një dhurate që keni dhuruar ose pranuar",
+        "43": "Bëjini një pyetje një lojtari tjetër",
+        "44": "Tregoni një histori rreth një surprize",
+        "45": "Tregoni për një nga pasionet tuaja",
+        "46": "Tregoni një histori rreth një momenti kur diçka ju ka lënduar",
+        "47": "Tregoni një histori rreth një momenti kur keni qenë i nervozuar",
+        "48": "Tregoni një histori rreth një momenti kur keni arritur diçka",
+        "49": "Tregoni një histori rreth një momenti kur keni pasur frikë",
+        "50": "Tregoni rreth diçkaje që e vlerësoni tek vetja juaj"
+    }
+}
